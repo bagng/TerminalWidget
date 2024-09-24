@@ -1,1 +1,2 @@
 # TerminalWidget
+Scriptable terminal widget
